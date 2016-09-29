@@ -1,6 +1,5 @@
 #Youtube
 www.youtube-nocookie.com
-youtube-ui.l.google.com
 i1.ytimg.com
 clients6.google.com
 r1---sn-vgqsen7z.googlevideo.com
